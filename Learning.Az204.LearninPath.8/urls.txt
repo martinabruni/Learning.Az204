@@ -1,0 +1,6 @@
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/2-api-management-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/3-api-gateways/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/4-api-management-policies/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/5-create-advanced-policies/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/6-secure-access-api-subscriptions/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/7-secure-access-api-certificates/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-implement-api-management

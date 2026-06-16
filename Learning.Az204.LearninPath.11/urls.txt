@@ -1,0 +1,5 @@
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/2-application-insights-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/3-logs-based-metrics/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/4-app-instrumentation/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/5-availability-tests/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/6-application-map/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging

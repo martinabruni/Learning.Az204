@@ -1,0 +1,6 @@
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/2-cosmos-db-benefits/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/3-cosmos-db-resource-hierarchy/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/4-cosmos-db-consistency-levels-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/5-choose-cosmos-db-consistency-level/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/6-cosmos-db-supported-apis/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/7-cosmos-db-request-units/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db

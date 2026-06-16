@@ -1,0 +1,11 @@
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/2-event-grid-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/3-event-grid-schema/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/4-event-grid-delivery-retry/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/5-authorize-access-event-grid/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/6-webhook-event-delivery/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/7-event-grid-filtering/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/2-event-hubs-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/3-event-hubs-capture/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/4-event-processing/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/5-event-hubs-authentication-authorization/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions
+https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/6-event-hubs-programming-guide/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-event-based-solutions

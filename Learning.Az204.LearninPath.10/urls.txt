@@ -1,0 +1,6 @@
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/2-choose-queue-solution/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/3-azure-service-bus-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/4-queues-topics-subscriptions/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/5-messages-payloads-serialization/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/7-azure-queue-storage-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/8-queue-storage-code-examples/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-develop-message-based-solutions

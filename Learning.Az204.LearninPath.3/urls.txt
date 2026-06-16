@@ -1,0 +1,13 @@
+https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/2-blob-storage-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/3-blob-storage-resources/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/4-blob-storage-security/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+
+https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/2-blob-storage-lifecycle/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/3-blob-storage-lifecycle-policies/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/4-add-policy-blob-storage/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/5-rehydrate-blob-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+
+https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/2-blob-storage-client-library-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/3-create-client-object/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/5-manage-container-properties-metadata-dotnet/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/6-set-retrieve-properties-metadata-rest/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage

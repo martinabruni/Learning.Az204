@@ -1,0 +1,7 @@
+https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/2-azure-functions-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/3-compare-azure-functions-hosting-options/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/4-scale-azure-functions/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/2-azure-function-development-overview/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/3-create-triggers-bindings/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/4-connect-azure-services/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/5-create-function-visual-studio-code/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-azure-functions
